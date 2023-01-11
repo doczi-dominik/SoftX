@@ -21,7 +21,7 @@
   --server-glow-intensity: var(--glow-intensity);
   --talking-bar: rgb(var(--accent));
   --talking-glow: rgb(var(--accent));
-  --blur: 10px;
+  --blur: 0px;
   --TB-height: calc(var(--toolbar-height) - 1px);
   --TB-width: 52px;
   --TB-header-padding: 155px !important;
