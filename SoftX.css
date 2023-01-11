@@ -21,7 +21,7 @@
   --server-glow-intensity: var(--glow-intensity);
   --talking-bar: rgb(var(--accent));
   --talking-glow: rgb(var(--accent));
-  --blur: 0px;
+  --blur: 10px;
   --TB-height: calc(var(--toolbar-height) - 1px);
   --TB-width: 52px;
   --TB-header-padding: 155px !important;
@@ -43,7 +43,7 @@
   --guild-scrollbar: none;
   --unread-colour: 255 255 255;
   --backdrop-background: var(--bg-primary);
-  --backdrop-blur: 10px;
+  --backdrop-blur: 0px;
   --channel-height: 40px;
   --member-height: 54px;
   --dm-height: 56px;
